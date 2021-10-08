@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 75f901a39d68d934faf81e0c0f53014c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - CREAMPUFF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: eb369aa0a5fb15f4f8bbd5b1b1e53c83, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
